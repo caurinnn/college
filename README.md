@@ -1,6 +1,6 @@
 # college
 
-# ***Docker Compose***
+# ***Docker Compose**
 
 1. На скриншоте показан процесс установки **VirtualBox Guest Additions (гостевых дополнений)** на ОС Linux. Этот процесс происходит в терминале, и на экране отображается информация о ходе установки.
 
@@ -140,7 +140,7 @@
 
 ![image](https://github.com/user-attachments/assets/3c5c53cf-40ee-4033-9ee7-fe1ba7a2eec7)
 
-# ***Grafana***
+# ***Grafana**
 
 1. `localhost:3000` 
 
