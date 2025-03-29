@@ -1,4 +1,4 @@
-# college
+![image](https://github.com/user-attachments/assets/8351d7b1-80b6-4b44-b7da-22f0ec501636)# college
 
 # ***Docker Compose**
 
@@ -186,3 +186,24 @@
 9. Дашборд успешно производит мониторинг метрик.
 
 ![image](https://github.com/user-attachments/assets/f00ba0e6-4571-4e43-9ecf-fa0736e34d81)
+
+Викториа метрикс
+
+создаю новую визуализацию. меняю url
+
+![image](https://github.com/user-attachments/assets/1e8d8c28-f645-4556-8cb1-c0181fa4e343)
+
+Ставлю режим код и выставляю параметр OILCOINT_metric1
+![image](https://github.com/user-attachments/assets/c2613b77-19e3-4ffd-a94b-80f6ac44afd4)
+
+Ввожу команды в терминал
+![image](https://github.com/user-attachments/assets/5e76b25e-66ea-46ff-a02c-5c840dbd672a)
+
+всё ок
+![image](https://github.com/user-attachments/assets/fa7dfae6-aa76-4ee2-8a23-aec378249169)
+
+результат
+![image](https://github.com/user-attachments/assets/e0d38eec-05c0-427a-ad6d-28927b63c4aa)
+
+и в графане
+![image](https://github.com/user-attachments/assets/6edf6648-f3ee-4911-be8a-907fd854b214)
